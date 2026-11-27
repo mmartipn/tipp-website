@@ -1,0 +1,5 @@
+Todo
+	- bankverbinung im tir
+	- historie ?
+	- richtiger tipp 3 Punkte
+	- anlegen einer neuen tir auf user ebene

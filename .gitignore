@@ -1,0 +1,25 @@
+# Lokale Konfiguration mit Zugangsdaten
+.env
+
+# Hochgeladene Dateien (Chat-Bilder) - nur Ordner wird versioniert
+uplds/*
+!uplds/.gitkeep
+
+# Datenbank-Exporte, Backups, Scratch
+*.sql.gz
+*.dump
+*.bak
+backup/
+u/
+
+# Logs
+*.log
+log.txt
+
+# IDE / OS / Bildquellen
+.idea/
+.vscode/
+.agents/
+*.pdn
+Thumbs.db
+.DS_Store
